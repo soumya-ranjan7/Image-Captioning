@@ -1,2 +1,2 @@
 # Image-Captioning
-Image captioning using TensorFlow
+Image caption generator using TensorFlow. The Jupyter notebook can be deployed on Google colab.
